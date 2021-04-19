@@ -15,13 +15,13 @@
 //
 //"DRAG_HERE_TO_REMOVE" = "Drag here to remove";
 //"RELEASE_TO_REMOVE" = "Release to remove";
-//
-"PEN" = "ペン";
-"CROP" = "Crop";
-"MOSAIC" = "モザイク";
-"INPUT_TEXT" = "入力テキスト";
 
-"FREE" = "無料";
+"PEN"= "펜";
+"CROP"= "자르기";
+"MOSAIC"= "모자이크";
+"INPUT_TEXT"= "텍스트 입력";
 
-"DRAG_HERE_TO_REMOVE" = "ここにドラッグして削除します";
-"RELEASE_TO_REMOVE" = "削除するリリース";
+"FREE"= "무료";
+
+"DRAG_HERE_TO_REMOVE"= "제거하려면 여기를 드래그하십시오.";
+"RELEASE_TO_REMOVE"= "제거하려면 해제";

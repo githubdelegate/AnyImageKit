@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+
+//"ORIGINAL_IMAGE" = "Original image";
+//"SELECT_PHOTO" = "Select photo";
+//"UNSELECT_PHOTO" = "Unselect photo";
+//"TAKE_PHOTO" = "Take photo";
+//"SELECT_A_MAXIMUM_OF_PHOTOS" = "Select a maximum of %zd photos";
+//"SELECT_A_MAXIMUM_OF_VIDEOS" = "Select a maximum of %zd videos";
+//"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Select a maximum of %zd photos or videos";
+//"DOWNLOADING_FROM_ICLOUD" = "Downloading from iCloud";
+//"FETCH_FAILED_PLEASE_RETRY" = "Fetch failed, please retry";
+//"A11Y_SWITCH_ALBUM_TIPS" = "Switch album, current album is %@";
+//"LIMITED_PHOTOS_PERMISSION_TIPS" = "Can't fetch all photos\nClick to select more photos";
+//"DURATION_OF_SELECTED_VIDEO_RANGE" = "The duration of the selected video should be between %d-%d seconds.";
+
+
+"ORIGINAL_IMAGE" = "Imej asal";
+"SELECT_PHOTO" = "Pilih foto";
+"UNSELECT_PHOTO" = "Nyahpilih foto";
+"TAKE_PHOTO" = "Ambil gambar";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Pilih maksimum %zd foto";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Pilih maksimum %zd video";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Pilih maksimum %zd foto atau video";
+"DOWNLOADING_FROM_ICLOUD" = "Memuat turun dari iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "Pengambilan gagal, sila cuba lagi";
+"A11Y_SWITCH_ALBUM_TIPS" = "Tukar album, album semasa adalah %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Tidak dapat mengambil semua foto \ nKlik untuk memilih lebih banyak foto";
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "Tempoh video yang dipilih hendaklah antara %d-%d saat.";

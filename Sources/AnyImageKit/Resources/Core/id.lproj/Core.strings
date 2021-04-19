@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+
+//"OK" = "OK";
+//"BACK" = "Back";
+//"DONE" = "Done";
+//"EDIT" = "Edit";
+//"ALERT" = "Alert";
+//"CANCEL" = "Cancel";
+//"PREVIEW" = "Preview";
+//"PHOTOS" = "Photos";
+//"CAMERA" = "Camera";
+//"MICROPHONE" = "Microphone";
+//"SETTINGS" = "Settings";
+//
+//"PHOTO" = "Photo";
+//"VIDEO" = "Video";
+//"LIVE_PHOTO" = "LIVE";
+//"LOADING" = "Loading";
+//
+//"UNDO" = "Undo";
+//"PLAY" = "Play";
+//"PAUSE" = "Pause";
+//"RESET" = "Reset";
+//"DOWNLOADING" = "Downloading";
+//
+//"GO_TO_SETTINGS" = "Go to Settings";
+//"PERMISSION_IS_DISABLED" = "%@ is disabled";
+//"NO_PHOTOS_PERMISSION_TIPS" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+//"NO_CAMERA_PERMISSION_TIPS" = "Allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+//"NO_MICROPHONE_PERMISSION_TIPS" = "Allow %@ to access your microphone in \"Settings > Privacy > Microphone\"";
+
+
+"OK" = "OK";
+"BACK" = "Kembali";
+"DONE" = "Selesai";
+"EDIT" = "Edit";
+"ALERT" = "Alert";
+"CANCEL" = "Batal";
+"PREVIEW" = "Pratinjau";
+"PHOTOS" = "Foto";
+"CAMERA" = "Kamera";
+"MICROPHONE" = "Mikrofon";
+"SETTINGS" = "Pengaturan";
+
+"PHOTO" = "Foto";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Memuat";
+
+"UNDO" = "Urungkan";
+"PLAY" = "Mainkan";
+"PAUSE" = "Pause";
+"RESET" = "Setel Ulang";
+"DOWNLOADING" = "Mendownload";
+
+"GO_TO_SETTINGS" = "Buka Pengaturan";
+"PERMISSION_IS_DISABLED" = " %@ dinonaktifkan";
+"NO_PHOTOS_PERMISSION_TIPS" = "Izinkan %@ mengakses album Anda di \" Pengaturan> Privasi> Foto \"";
+"NO_CAMERA_PERMISSION_TIPS" = "Izinkan %@ mengakses kamera Anda di \" Pengaturan> Privasi> Kamera \"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Izinkan %@ mengakses mikrofon Anda di \" Pengaturan> Privasi> Mikrofon \"";

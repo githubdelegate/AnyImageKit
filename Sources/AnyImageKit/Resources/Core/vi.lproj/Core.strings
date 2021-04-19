@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+
+//"OK" = "OK";
+//"BACK" = "Back";
+//"DONE" = "Done";
+//"EDIT" = "Edit";
+//"ALERT" = "Alert";
+//"CANCEL" = "Cancel";
+//"PREVIEW" = "Preview";
+//"PHOTOS" = "Photos";
+//"CAMERA" = "Camera";
+//"MICROPHONE" = "Microphone";
+//"SETTINGS" = "Settings";
+//
+//"PHOTO" = "Photo";
+//"VIDEO" = "Video";
+//"LIVE_PHOTO" = "LIVE";
+//"LOADING" = "Loading";
+//
+//"UNDO" = "Undo";
+//"PLAY" = "Play";
+//"PAUSE" = "Pause";
+//"RESET" = "Reset";
+//"DOWNLOADING" = "Downloading";
+//
+//"GO_TO_SETTINGS" = "Go to Settings";
+//"PERMISSION_IS_DISABLED" = "%@ is disabled";
+//"NO_PHOTOS_PERMISSION_TIPS" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+//"NO_CAMERA_PERMISSION_TIPS" = "Allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+//"NO_MICROPHONE_PERMISSION_TIPS" = "Allow %@ to access your microphone in \"Settings > Privacy > Microphone\"";
+
+
+"OK" = "Được";
+"BACK" = "Quay lại";
+"DONE" = "Xong";
+"EDIT" = "Chỉnh sửa";
+"ALERT" = "Cảnh báo";
+"CANCEL" = "Hủy bỏ";
+"PREVIEW" = "Xem trước";
+"PHOTOS" = "Ảnh";
+"CAMERA" = "Máy ảnh";
+"MICROPHONE" = "Micrô";
+"SETTINGS" = "Cài đặt";
+
+"PHOTO" = "Ảnh";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "TRỰC TIẾP";
+"LOADING" = "Đang tải";
+
+"UNDO" = "Hoàn tác";
+"PLAY" = "Chơi";
+"PAUSE" = "Tạm dừng";
+"RESET" = "Đặt lại";
+"DOWNLOADING" = "Đang tải xuống";
+
+"GO_TO_SETTINGS" = "Đi tới Cài đặt";
+"PERMISSION_IS_DISABLED" = "%@ bị tắt";
+"NO_PHOTOS_PERMISSION_TIPS" = "Cho phép %@ truy cập anbom của bạn trong \" Cài đặt> Bảo mật> Ảnh \"";
+"NO_CAMERA_PERMISSION_TIPS" = "Cho phép %@ truy cập máy ảnh của bạn trong \" Cài đặt> Quyền riêng tư> Máy ảnh \"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Cho phép %@ truy cập micrô của bạn trong \" Cài đặt> Quyền riêng tư> Micrô \"";

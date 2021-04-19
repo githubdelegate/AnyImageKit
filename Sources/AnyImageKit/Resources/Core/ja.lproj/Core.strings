@@ -29,7 +29,7 @@
 "DOWNLOADING" = "ダウンロード";
 
 "GO_TO_SETTINGS" = "設定に移動";
-"PERMISSION_IS_DISABLED" = "％@は無効です";
-"NO_PHOTOS_PERMISSION_TIPS" = "％@に「設定」>「プライバシー」>「写真」でアルバムへのアクセスを許可する";
-"NO_CAMERA_PERMISSION_TIPS" = "％@に「設定」>「プライバシー」>「カメラ」でカメラへのアクセスを許可する";
-"NO_MICROPHONE_PERMISSION_TIPS" = "％@に[設定]> [プライバシー]> [マイク]でマイクへのアクセスを許可する";
+"PERMISSION_IS_DISABLED" = "%@ は無効です";
+"NO_PHOTOS_PERMISSION_TIPS" = " %@ に「設定」>「プライバシー」>「写真」でアルバムへのアクセスを許可する";
+"NO_CAMERA_PERMISSION_TIPS" = "%@ に「設定」>「プライバシー」>「カメラ」でカメラへのアクセスを許可する";
+"NO_MICROPHONE_PERMISSION_TIPS" = "%@ に[設定]> [プライバシー]> [マイク]でマイクへのアクセスを許可する";

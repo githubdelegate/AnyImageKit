@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+//
+//"ORIGINAL_IMAGE" = "Original image";
+//"SELECT_PHOTO" = "Select photo";
+//"UNSELECT_PHOTO" = "Unselect photo";
+//"TAKE_PHOTO" = "Take photo";
+//"SELECT_A_MAXIMUM_OF_PHOTOS" = "Select a maximum of %zd photos";
+//"SELECT_A_MAXIMUM_OF_VIDEOS" = "Select a maximum of %zd videos";
+//"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Select a maximum of %zd photos or videos";
+//"DOWNLOADING_FROM_ICLOUD" = "Downloading from iCloud";
+//"FETCH_FAILED_PLEASE_RETRY" = "Fetch failed, please retry";
+//"A11Y_SWITCH_ALBUM_TIPS" = "Switch album, current album is %@";
+//"LIMITED_PHOTOS_PERMISSION_TIPS" = "Can't fetch all photos\nClick to select more photos";
+//"DURATION_OF_SELECTED_VIDEO_RANGE" = "The duration of the selected video should be between %d-%d seconds.";
+
+
+"ORIGINAL_IMAGE" = "Image d'origine";
+"SELECT_PHOTO" = "Sélectionner une photo";
+"UNSELECT_PHOTO" = "Désélectionner la photo";
+"TAKE_PHOTO" = "Prendre une photo";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "Sélectionnez un maximum de %zd photos";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "Sélectionnez un maximum de %zd vidéos";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Sélectionnez un maximum de %zd photos ou vidéos";
+"DOWNLOADING_FROM_ICLOUD" = "Téléchargement depuis iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "La récupération a échoué, veuillez réessayer";
+"A11Y_SWITCH_ALBUM_TIPS" = "Changer d'album, l'album actuel est %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "Impossible de récupérer toutes les photos \ nCliquez pour sélectionner plus de photos";
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "La durée de la vidéo sélectionnée doit être comprise entre %d-%d secondes.";

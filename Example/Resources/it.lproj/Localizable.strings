@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  AnyImageEditor
+
+  Created by 蒋惠 on 2019/11/8.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+
+// Picker
+"OpenPicker" = "Open Picker";
+"Theme" = "Theme";
+"SelectLimit" = "Select Limit";
+"ColumnNumber" = "Column Number";
+"UseOriginalImage" = "Use Original Image";
+"SelectionTapAction" = "Selection Tap Action";
+"SelectOptions" = "Select Options";
+"AlbumOptions" = "Album Options";
+"OrderByDate" = "Order By Date";
+"SaveEditedAsset" = "Save edited asset";
+"EditorOptions" = "Editor Options";
+"CaptureOptions" = "Capture Options";
+"FullScreen" = "Full Screen";
+
+// Editor
+"OpenEditor" = "Open Editor";
+"EditOptions" = "Edit Options";
+"PenWidth" = "Pen Width";
+"MosaicOptions" = "Mosaic Options";
+"MosaicWidth" = "Mosaic Width";
+"MosaicLevel" = "Mosaic Level";
+"CropOptions" = "Crop Options";
+
+// Capture
+"OpenCamera" = "Open Camera";
+"MediaOptions" = "Media Options";
+"PreferredPresets" = "Preferred Presets";
+"PhotoAspectRatio" = "Photo Aspect Ratio";
+"PreferredPositions" = "Preferred Positions";
+"FlashMode" = "Flash Mode";
+"VideoMaximumDuration" = "Video Maximum Duration";
+
+// Other
+"Preselect Assets Tips" = "Preselect Assets\nIf you want to preselect assets when picker presented, you should pass identifier of the selected assets into picker before you present picker.";

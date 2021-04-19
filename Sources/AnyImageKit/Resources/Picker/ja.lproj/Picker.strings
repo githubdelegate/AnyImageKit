@@ -5,16 +5,30 @@
   Created by 蒋惠 on 2019/9/16.
   Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
 */
+//
+//"ORIGINAL_IMAGE" = "Original image";
+//"SELECT_PHOTO" = "Select photo";
+//"UNSELECT_PHOTO" = "Unselect photo";
+//"TAKE_PHOTO" = "Take photo";
+//"SELECT_A_MAXIMUM_OF_PHOTOS" = "Select a maximum of %zd photos";
+//"SELECT_A_MAXIMUM_OF_VIDEOS" = "Select a maximum of %zd videos";
+//"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Select a maximum of %zd photos or videos";
+//"DOWNLOADING_FROM_ICLOUD" = "Downloading from iCloud";
+//"FETCH_FAILED_PLEASE_RETRY" = "Fetch failed, please retry";
+//"A11Y_SWITCH_ALBUM_TIPS" = "Switch album, current album is %@";
+//"LIMITED_PHOTOS_PERMISSION_TIPS" = "Can't fetch all photos\nClick to select more photos";
+//"DURATION_OF_SELECTED_VIDEO_RANGE" = "The duration of the selected video should be between %d-%d seconds.";
 
-"ORIGINAL_IMAGE" = "Original image";
-"SELECT_PHOTO" = "Select photo";
-"UNSELECT_PHOTO" = "Unselect photo";
-"TAKE_PHOTO" = "Take photo";
-"SELECT_A_MAXIMUM_OF_PHOTOS" = "Select a maximum of %zd photos";
-"SELECT_A_MAXIMUM_OF_VIDEOS" = "Select a maximum of %zd videos";
-"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Select a maximum of %zd photos or videos";
-"DOWNLOADING_FROM_ICLOUD" = "Downloading from iCloud";
-"FETCH_FAILED_PLEASE_RETRY" = "Fetch failed, please retry";
-"A11Y_SWITCH_ALBUM_TIPS" = "Switch album, current album is %@";
-"LIMITED_PHOTOS_PERMISSION_TIPS" = "Can't fetch all photos\nClick to select more photos";
-"DURATION_OF_SELECTED_VIDEO_RANGE" = "The duration of the selected video should be between %d-%d seconds.";
+
+"ORIGINAL_IMAGE" = "元の画像";
+"SELECT_PHOTO" = "写真を選択";
+"UNSELECT_PHOTO" = "写真の選択を解除";
+"TAKE_PHOTO" = "写真を撮る";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "最大 %zd 枚の写真を選択";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "最大 %zd の動画を選択してください";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "最大 %zd の写真またはビデオを選択してください";
+"DOWNLOADING_FROM_ICLOUD" = "iCloudからダウンロードしています";
+"FETCH_FAILED_PLEASE_RETRY" = "フェッチに失敗しました。再試行してください";
+"A11Y_SWITCH_ALBUM_TIPS" = "アルバムを切り替えます。現在のアルバムは %@ です";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "すべての写真を取得できません\ nクリックしてさらに写真を選択してください";
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "選択した動画の長さは %d〜%d 秒である必要があります。";

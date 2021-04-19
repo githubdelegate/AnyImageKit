@@ -5,7 +5,7 @@
   Created by 蒋惠 on 2019/11/12.
   Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
 */
-//
+
 //"PEN" = "Pen";
 //"CROP" = "Crop";
 //"MOSAIC" = "Mosaic";
@@ -15,13 +15,14 @@
 //
 //"DRAG_HERE_TO_REMOVE" = "Drag here to remove";
 //"RELEASE_TO_REMOVE" = "Release to remove";
-//
-"PEN" = "ペン";
-"CROP" = "Crop";
-"MOSAIC" = "モザイク";
-"INPUT_TEXT" = "入力テキスト";
 
-"FREE" = "無料";
 
-"DRAG_HERE_TO_REMOVE" = "ここにドラッグして削除します";
-"RELEASE_TO_REMOVE" = "削除するリリース";
+"PEN" = "Bút";
+"CROP" = "Cắt";
+"MOSAIC" = "Khảm";
+"INPUT_TEXT" = "Văn bản đầu vào";
+
+"FREE" = "Miễn phí";
+
+"DRAG_HERE_TO_REMOVE" = "Kéo vào đây để xóa";
+"RELEASE_TO_REMOVE" = "Phát hành để loại bỏ";

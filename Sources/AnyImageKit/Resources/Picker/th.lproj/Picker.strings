@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 蒋惠 on 2019/9/16.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+
+//"ORIGINAL_IMAGE" = "Original image";
+//"SELECT_PHOTO" = "Select photo";
+//"UNSELECT_PHOTO" = "Unselect photo";
+//"TAKE_PHOTO" = "Take photo";
+//"SELECT_A_MAXIMUM_OF_PHOTOS" = "Select a maximum of %zd photos";
+//"SELECT_A_MAXIMUM_OF_VIDEOS" = "Select a maximum of %zd videos";
+//"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "Select a maximum of %zd photos or videos";
+//"DOWNLOADING_FROM_ICLOUD" = "Downloading from iCloud";
+//"FETCH_FAILED_PLEASE_RETRY" = "Fetch failed, please retry";
+//"A11Y_SWITCH_ALBUM_TIPS" = "Switch album, current album is %@";
+//"LIMITED_PHOTOS_PERMISSION_TIPS" = "Can't fetch all photos\nClick to select more photos";
+//"DURATION_OF_SELECTED_VIDEO_RANGE" = "The duration of the selected video should be between %d-%d seconds.";
+
+"ORIGINAL_IMAGE" = "ภาพต้นฉบับ";
+"SELECT_PHOTO" = "เลือกรูปภาพ";
+"UNSELECT_PHOTO" = "ยกเลิกการเลือกรูปภาพ";
+"TAKE_PHOTO" = "ถ่ายภาพ";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "เลือกรูปภาพได้สูงสุด %zd";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "เลือกวิดีโอสูงสุด %zd";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "เลือกรูปภาพหรือวิดีโอได้สูงสุด% zd";
+"DOWNLOADING_FROM_ICLOUD" = "กำลังดาวน์โหลดจาก iCloud";
+"FETCH_FAILED_PLEASE_RETRY" = "การดึงข้อมูลล้มเหลวโปรดลองอีกครั้ง";
+"A11Y_SWITCH_ALBUM_TIPS" = "สลับอัลบั้มอัลบั้มปัจจุบันคือ %@";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "ไม่สามารถดึงรูปภาพทั้งหมด \ n คลิกเพื่อเลือกรูปภาพเพิ่มเติม";
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "ความยาวของวิดีโอที่เลือกควรอยู่ระหว่าง %d-%d วินาที";

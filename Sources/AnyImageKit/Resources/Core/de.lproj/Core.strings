@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "Back";
+"DONE" = "Done";
+"EDIT" = "Edit";
+"ALERT" = "Alert";
+"CANCEL" = "Cancel";
+"PREVIEW" = "Preview";
+"PHOTOS" = "Photos";
+"CAMERA" = "Camera";
+"MICROPHONE" = "Microphone";
+"SETTINGS" = "Settings";
+
+"PHOTO" = "Photo";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Loading";
+
+"UNDO" = "Undo";
+"PLAY" = "Play";
+"PAUSE" = "Pause";
+"RESET" = "Reset";
+"DOWNLOADING" = "Downloading";
+
+"GO_TO_SETTINGS" = "Go to Settings";
+"PERMISSION_IS_DISABLED" = "%@ is disabled";
+"NO_PHOTOS_PERMISSION_TIPS" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+"NO_CAMERA_PERMISSION_TIPS" = "Allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Allow %@ to access your microphone in \"Settings > Privacy > Microphone\"";
+
+"OK" = "OK";
+"BACK" = "Back";
+"DONE" = "Done";
+"EDIT" = "Edit";
+"ALERT" = "Alert";
+"CANCEL" = "Cancel";
+"PREVIEW" = "Vorschau";
+"PHOTOS" = "Fotos";
+"CAMERA" = "Kamera";
+"MICROPHONE" = "Mikrofon";
+"SETTINGS" = "Settings";
+
+"PHOTO" = "Foto";
+"VIDEO" = "Video";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "Loading";
+
+"UNDO" = "Rückgängig";
+"PLAY" = "Spielen";
+"PAUSE" = "Pause";
+"RESET" = "Reset";
+"DOWNLOADING" = "Herunterladen";
+
+"GO_TO_SETTINGS" = "Gehe zu Einstellungen";
+"PERMISSION_IS_DISABLED" = " %@ ist deaktiviert";
+"NO_PHOTOS_PERMISSION_TIPS" = " %@ erlauben, unter \"Einstellungen> Datenschutz> Fotos \"auf Ihr Album zuzugreifen";
+"NO_CAMERA_PERMISSION_TIPS" = " %@ erlauben, unter\"Einstellungen> Datenschutz> Kamera \"auf Ihre Kamera zuzugreifen";
+"NO_MICROPHONE_PERMISSION_TIPS" = "Ermöglichen Sie %@ den Zugriff auf Ihr Mikrofon unter\" Einstellungen> Datenschutz> Mikrofon \";

@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+//
+//"OK" = "OK";
+//"BACK" = "Back";
+//"DONE" = "Done";
+//"EDIT" = "Edit";
+//"ALERT" = "Alert";
+//"CANCEL" = "Cancel";
+//"PREVIEW" = "Preview";
+//"PHOTOS" = "Photos";
+//"CAMERA" = "Camera";
+//"MICROPHONE" = "Microphone";
+//"SETTINGS" = "Settings";
+//
+//"PHOTO" = "Photo";
+//"VIDEO" = "Video";
+//"LIVE_PHOTO" = "LIVE";
+//"LOADING" = "Loading";
+//
+//"UNDO" = "Undo";
+//"PLAY" = "Play";
+//"PAUSE" = "Pause";
+//"RESET" = "Reset";
+//"DOWNLOADING" = "Downloading";
+//
+//"GO_TO_SETTINGS" = "Go to Settings";
+//"PERMISSION_IS_DISABLED" = "%@ is disabled";
+//"NO_PHOTOS_PERMISSION_TIPS" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+//"NO_CAMERA_PERMISSION_TIPS" = "Allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+//"NO_MICROPHONE_PERMISSION_TIPS" = "Allow %@ to access your microphone in \"Settings > Privacy > Microphone\"";
+
+
+"OK" = "ตกลง";
+"BACK" = "ย้อนกลับ";
+"DONE" = "เสร็จสิ้น";
+"EDIT" = "แก้ไข";
+"ALERT" = "แจ้งเตือน";
+"CANCEL" = "ยกเลิก";
+"PREVIEW" = "ดูตัวอย่าง";
+"PHOTOS" = "รูปภาพ";
+"CAMERA" = "กล้องถ่ายรูป";
+"MICROPHONE" = "ไมโครโฟน";
+"SETTINGS" = "การตั้งค่า";
+
+"PHOTO" = "ภาพถ่าย";
+"VIDEO" = "วิดีโอ";
+"LIVE_PHOTO" = "สด";
+"LOADING" = "กำลังโหลด";
+
+"UNDO" = "เลิกทำ";
+"PLAY" = "เล่น";
+"PAUSE" = "หยุดชั่วคราว";
+"RESET" = "รีเซ็ต";
+"DOWNLOADING" = "กำลังดาวน์โหลด";
+
+"GO_TO_SETTINGS" = "ไปที่การตั้งค่า";
+"PERMISSION_IS_DISABLED" = "%@ ถูกปิดใช้งาน";
+"NO_PHOTOS_PERMISSION_TIPS" = "อนุญาตให้ %@ เข้าถึงอัลบั้มของคุณใน \" การตั้งค่า> ความเป็นส่วนตัว> รูปภาพ \"";
+"NO_CAMERA_PERMISSION_TIPS" = "อนุญาตให้ %@ เข้าถึงกล้องของคุณใน \" การตั้งค่า> ความเป็นส่วนตัว> กล้องถ่ายรูป \"";
+"NO_MICROPHONE_PERMISSION_TIPS" = "อนุญาตให้ %@ เข้าถึงไมโครโฟนของคุณใน \" การตั้งค่า> ความเป็นส่วนตัว> ไมโครโฟน \"";

@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  AnyImageKit
+
+  Created by 刘栋 on 2019/12/24.
+  Copyright © 2019-2021 AnyImageProject.org. All rights reserved.
+*/
+
+//"OK" = "OK";
+//"BACK" = "Back";
+//"DONE" = "Done";
+//"EDIT" = "Edit";
+//"ALERT" = "Alert";
+//"CANCEL" = "Cancel";
+//"PREVIEW" = "Preview";
+//"PHOTOS" = "Photos";
+//"CAMERA" = "Camera";
+//"MICROPHONE" = "Microphone";
+//"SETTINGS" = "Settings";
+//
+//"PHOTO" = "Photo";
+//"VIDEO" = "Video";
+//"LIVE_PHOTO" = "LIVE";
+//"LOADING" = "Loading";
+//
+//"UNDO" = "Undo";
+//"PLAY" = "Play";
+//"PAUSE" = "Pause";
+//"RESET" = "Reset";
+//"DOWNLOADING" = "Downloading";
+//
+//"GO_TO_SETTINGS" = "Go to Settings";
+//"PERMISSION_IS_DISABLED" = "%@ is disabled";
+//"NO_PHOTOS_PERMISSION_TIPS" = "Allow %@ to access your album in \"Settings > Privacy > Photos\"";
+//"NO_CAMERA_PERMISSION_TIPS" = "Allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+//"NO_MICROPHONE_PERMISSION_TIPS" = "Allow %@ to access your microphone in \"Settings > Privacy > Microphone\"";
+
+"OK"= "OK";
+"BACK"= "뒤로";
+"DONE"= "완료";
+"EDIT"= "편집";
+"ALERT"= "경고";
+"CANCEL"= "취소";
+"PREVIEW"= "미리보기";
+"PHOTOS"= "사진";
+"CAMERA"= "카메라";
+"MICROPHONE"= "마이크";
+"SETTINGS"= "설정";
+
+"PHOTO"= "사진";
+"VIDEO"= "비디오";
+"LIVE_PHOTO"= "라이브";
+"LOADING"= "로드 중";
+
+"UNDO"= "실행 취소";
+"PLAY"= "재생";
+"PAUSE"= "일시 중지";
+"RESET"= "재설정";
+"DOWNLOADING"= "다운로드 중";
+
+"GO_TO_SETTINGS"= "설정으로 이동";
+"PERMISSION_IS_DISABLED"= "%@ 비활성화 됨";
+"NO_PHOTOS_PERMISSION_TIPS"= "\"설정> 개인 정보 보호> 사진 \"에서 %@ 의 앨범 접근 허용";
+"NO_CAMERA_PERMISSION_TIPS"= "\"설정> 개인 정보> 카메라 \"에서  %@ 의 카메라 접근 허용";
+"NO_MICROPHONE_PERMISSION_TIPS"= "\"설정> 개인 정보 보호> 마이크 \"에서  %@ 의 마이크 접근 허용";

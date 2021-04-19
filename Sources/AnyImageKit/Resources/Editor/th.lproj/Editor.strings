@@ -15,13 +15,13 @@
 //
 //"DRAG_HERE_TO_REMOVE" = "Drag here to remove";
 //"RELEASE_TO_REMOVE" = "Release to remove";
-//
-"PEN" = "ペン";
-"CROP" = "Crop";
-"MOSAIC" = "モザイク";
-"INPUT_TEXT" = "入力テキスト";
 
-"FREE" = "無料";
+"PEN" = "ปากกา";
+"CROP" = "ครอบตัด";
+"MOSAIC" = "โมเสค";
+"INPUT_TEXT" = "ป้อนข้อความ";
 
-"DRAG_HERE_TO_REMOVE" = "ここにドラッグして削除します";
-"RELEASE_TO_REMOVE" = "削除するリリース";
+"FREE" = "ฟรี";
+
+"DRAG_HERE_TO_REMOVE" = "ลากมาที่นี่เพื่อลบ";
+"RELEASE_TO_REMOVE" = "ปล่อยเพื่อลบ";
